@@ -11,11 +11,11 @@ I am a Junior QA Engineer with a strong understanding of software testing princi
 ## Portfolio
 
 ### 1. Test Documentation
-- [**Bug Reports**](files/Bug_Reports_Tetiana.pdf)  
+- [**Bug Reports**](https://github.com/siranttetjana/SirantTetiana/blob/main/Bug_Reports.pdf)  
 
 - [**Checklists**](files/Checklists.pdf)
-- [**TestCases**](files/Checklists.pdf)  
-- [**TestPlan**](files/Checklists.pdf)     
+- [**TestCases**](https://github.com/siranttetjana/SirantTetiana/blob/main/TestCases_Registration.pdf) 
+   
 
 ---
 
@@ -31,19 +31,19 @@ I am a Junior QA Engineer with a strong understanding of software testing princi
 ---
 
 ### 3. SQL Queries
-- **[SQL Queries examples](files/SQL_queries.pdf)**  
+- **[SQL Queries examples](https://github.com/siranttetjana/SirantTetiana/blob/main/SQL_queries.pdf)**  
   
 
 
 ### 4. API Testing (Postman Collections)
-- **[Postman Collection Petstore](files/Postman_Collection.json)**
+- **[Postman Collection Petstore](https://github.com/siranttetjana/SirantTetiana/blob/main/Test%20Design.pdf)**
 
 ---
 
 ### 5. XML / JSON Files
 Example API response formats and data files
-- [XML](files/XML_pets.png)
-- [JSON](files/JSON_visitors.png)
+- [XML](https://github.com/siranttetjana/SirantTetiana/blob/main/XML_pets.png )
+- [JSON](https://github.com/siranttetjana/SirantTetiana/blob/main/JSON_visitors.png)
 
 ---
 
