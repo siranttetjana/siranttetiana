@@ -13,14 +13,14 @@ I am a Junior QA Engineer with a strong understanding of software testing princi
 ### 1. Test Documentation
 - [**Bug Reports**](https://github.com/siranttetjana/SirantTetiana/blob/main/Bug_Reports.pdf)  
 
-- [**Checklists**](files/Checklists.pdf)
+- [**Checklists**](https://github.com/siranttetjana/SirantTetiana/blob/main/CheckList.pdf)
 - [**TestCases**](https://github.com/siranttetjana/SirantTetiana/blob/main/TestCases_Registration.pdf) 
    
 
 ---
 
 ### 2. Test Design Techniques
-- **[Test Design Techniques PDF](files/Test_Design_Techniques_Tetiana.pdf)**  
+- **[Test Design Techniques PDF](https://github.com/siranttetjana/SirantTetiana/blob/main/Test%20Design.pdf)**  
   Includes examples of the most common techniques:
   - Equivalence Partitioning  
   - Boundary Value Analysis  
@@ -36,7 +36,7 @@ I am a Junior QA Engineer with a strong understanding of software testing princi
 
 
 ### 4. API Testing (Postman Collections)
-- **[Postman Collection Petstore](https://github.com/siranttetjana/SirantTetiana/blob/main/Test%20Design.pdf)**
+- **[Postman Collection Petstore](https://github.com/siranttetjana/SirantTetiana/blob/main/Postman_petstore.pdf)**
 
 ---
 
